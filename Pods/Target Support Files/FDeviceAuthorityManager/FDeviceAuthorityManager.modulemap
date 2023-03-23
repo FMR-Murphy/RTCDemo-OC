@@ -1,0 +1,6 @@
+framework module FDeviceAuthorityManager {
+  umbrella header "FDeviceAuthorityManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

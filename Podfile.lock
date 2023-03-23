@@ -1,0 +1,48 @@
+PODS:
+  - FDeviceAuthorityManager (1.0.0):
+    - PromisesObjC
+  - IQKeyboardManager (6.5.11)
+  - Masonry (1.1.0)
+  - PromisesObjC (2.0.0)
+  - ReactiveObjC (3.1.1)
+  - VolcEngineRTC (3.45.602):
+    - VolcEngineRTC/Core (= 3.45.602)
+  - VolcEngineRTC/Core (3.45.602)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - FDeviceAuthorityManager (from `dev-pods/FDeviceAuthorityManager`)
+  - IQKeyboardManager (= 6.5.11)
+  - Masonry (= 1.1.0)
+  - PromisesObjC (= 2.0.0)
+  - ReactiveObjC (= 3.1.1)
+  - VolcEngineRTC (= 3.45.602)
+  - YYModel (= 1.0.4)
+
+SPEC REPOS:
+  https://github.com/volcengine/volcengine-specs.git:
+    - VolcEngineRTC
+  trunk:
+    - IQKeyboardManager
+    - Masonry
+    - PromisesObjC
+    - ReactiveObjC
+    - YYModel
+
+EXTERNAL SOURCES:
+  FDeviceAuthorityManager:
+    :inhibit_all_warnings: false
+    :path: dev-pods/FDeviceAuthorityManager
+
+SPEC CHECKSUMS:
+  FDeviceAuthorityManager: 45f8c85cde5c6118fc3caf6a030082fbc0aa5573
+  IQKeyboardManager: ef43ce1ba1e5aaf4adf222c0a46f39761f246879
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  VolcEngineRTC: 8027ae4f0307005d0362ec7fe1437df6f0889555
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 6a7386f400a626d96ac200c2b04a7e8cb1fd8c04
+
+COCOAPODS: 1.11.2

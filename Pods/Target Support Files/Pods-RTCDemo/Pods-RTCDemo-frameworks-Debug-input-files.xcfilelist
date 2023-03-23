@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-RTCDemo/Pods-RTCDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FDeviceAuthorityManager/FDeviceAuthorityManager.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/PromisesObjC/FBLPromises.framework
+${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework
+${BUILT_PRODUCTS_DIR}/YYModel/YYModel.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/VolcEngineRTC/Core/VolcEngineRTC.framework/VolcEngineRTC
